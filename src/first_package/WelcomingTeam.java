@@ -4,12 +4,12 @@ public class WelcomingTeam {
 
 	
 	public static void main(String[] args) {
-		System.out.println("Hey dilara");
 		
 		
 		
 		
 		
-		System.out.println("Ilk commit");
+		System.out.println("Ilk commit Said");
+		System.out.println("from deniz");
 	}
 }
