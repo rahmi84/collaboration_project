@@ -12,6 +12,7 @@ public class WelcomingTeam {
 		
 		System.out.println("Ilk commit Said");
 		System.out.println("local branch deniz");
+		System.out.println("local branch deniz line 15");
 		
 	}
 }
