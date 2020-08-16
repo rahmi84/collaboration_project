@@ -9,6 +9,6 @@ public class WelcomingTeam {
 		
 		
 		
-		System.out.println("Ilk commit");
+		System.out.println("Ilk commit Said");
 	}
 }
