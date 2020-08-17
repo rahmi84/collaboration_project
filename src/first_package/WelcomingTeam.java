@@ -11,9 +11,7 @@ public class WelcomingTeam {
 		System.out.println("Hi from Rahmi");
 		System.out.println("dont worry be happy");
 		System.out.println("another trying");
-		
-		
-		
+		System.out.println("commit from local rahmi");
 		
 		
 		System.out.println("Ilk commit Said");
