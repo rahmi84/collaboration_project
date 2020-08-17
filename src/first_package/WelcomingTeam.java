@@ -11,5 +11,7 @@ public class WelcomingTeam {
 		System.out.println("first trying from local Rahmi");
 		
 		System.out.println("Ilk commit Said");
+		System.out.println("every failure is a step to success");
+
 	}
 }
